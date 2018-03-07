@@ -1,1 +1,1 @@
-docker run -p 4200:4200 -it --rm --name tour-of-heroes -v ${PWD}:/source -w /source tour-of-heroes bash
+docker run -p 4200:4200 -it --rm --name tour-of-heroes-container -v ${PWD}:/source -w /source tour-of-heroes-image bash

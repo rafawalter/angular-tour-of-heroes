@@ -1,1 +1,1 @@
-docker build -t tour-of-heroes .
+docker build -t tour-of-heroes-image .
